@@ -1,1 +1,1 @@
-# git_test
+This is Chinh's first git project!
